@@ -29,5 +29,10 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+.DS_Store
+app/.mvn/wrapper/maven-wrapper.properties
+app/mvnw
+app/mvnw.cmd
+
 ### VS Code ###
 .vscode/
